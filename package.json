@@ -1,0 +1,22 @@
+{
+  "name": "rollup-playground",
+  "version": "1.0.0",
+  "description": "Testing out rollup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asakusuma/rollup-playground.git"
+  },
+  "keywords": [
+    "rollup"
+  ],
+  "author": "Asa Kusuma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asakusuma/rollup-playground/issues"
+  },
+  "homepage": "https://github.com/asakusuma/rollup-playground#readme"
+}
